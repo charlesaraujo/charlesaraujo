@@ -17,6 +17,7 @@
 - 📄 Know about my experiences [https://br.linkedin.com/in/charlesas](https://br.linkedin.com/in/charlesas)
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
