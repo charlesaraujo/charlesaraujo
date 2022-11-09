@@ -19,6 +19,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Não code sozinho](https://medium.com/opanehtech/n%C3%A3o-code-sozinho-5968d201b8f3?source=rss-a83e2354445c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
