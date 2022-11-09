@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="charlesaraujo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesaraujo&theme=onedark" alt="charlesaraujo" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesaraujo&title=MultiLanguage,Repositories,Commits,PullRequest,Followers&theme=onedark" alt="charlesaraujo" /></a> </p>
 
 - 🔭 I’m currently working at **Banco Pan**
 
