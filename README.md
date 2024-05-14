@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="charlesaraujo" /> </p>
 
-- 🔭 I’m currently working at **Banco Pan**
-
-- 🌱 I’m currently learning **Go, Dart and Flutter**
-
-- 💬 Ask me about **Frontend, Backend, DevOps, Mobile, and any thing you want do do**
+- 🔭 I’m currently working at **Virgo Inc**
 
 - 📫 How to reach me **charles.gts3@gmail.com**
 
