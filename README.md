@@ -9,8 +9,8 @@
 
 - 📄 Know about my experiences [https://br.linkedin.com/in/charlesas](https://br.linkedin.com/in/charlesas)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Não code sozinho](https://medium.com/opanehtech/n%C3%A3o-code-sozinho-5968d201b8f3?source=rss-a83e2354445c------2)
+<!-- [Não code sozinho](https://medium.com/opanehtech/n%C3%A3o-code-sozinho-5968d201b8f3?source=rss-a83e2354445c------2) -->
 <!-- BLOG-POST-LIST:END -->
